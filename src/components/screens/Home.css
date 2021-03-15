@@ -1,0 +1,27 @@
+#hero{
+  background: var(--prm4);
+  color: var(--prm1)
+}
+
+#value-prop{
+  height: 480px;
+  background: var(--gry1);
+  color: var(--gry7);
+}
+
+#user-stories{
+  height: 840px;
+  background: var(--prm1);
+  color: var(--gry7);
+}
+
+#how-it-works{
+  height: 720px;
+  background: var(--prm4);
+  color: var(--gry1);
+}
+
+#download-app{
+  background: var(--gry1);
+  color: var(--gry7);
+}
